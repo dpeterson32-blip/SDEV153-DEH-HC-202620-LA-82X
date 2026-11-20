@@ -1,6 +1,8 @@
 //Dustin Peterson
 //11-16-2026
 
+public class GameSiteInformation {
+    public static final String HTML = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,3 +26,11 @@
             padding: 20px;
             margin: 20px auto;
         }
+    </style>
+</head>
+<body>
+    <h1>Game Site Information</h1>
+</body>
+</html>
+""";
+}
